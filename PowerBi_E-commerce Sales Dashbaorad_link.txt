@@ -1,1 +1,1 @@
-https://app.powerbi.com/groups/me/lineage?actions=highlight%2Cimpact&artifactId=6e54d06d-98ce-480c-9956-878dbbca44ed&src=Desktop&experience=power-bi
+https://app.powerbi.com/groups/me/reports/f5c954af-3ca4-4cd7-b980-2755fd0bbe1a/ReportSection?experience=power-bi
